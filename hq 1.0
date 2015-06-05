@@ -1,6 +1,7 @@
 # Blender v2.72 (sub 0) OBJ File: 'untitled.blend'
 # www.blender.org
 mtllib hq.mtl
+[obj]
 o Cube2_default
 v 0.833493 -0.000000 0.815102
 v 4.378647 -0.000000 0.815102
