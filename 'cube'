@@ -1,7 +1,7 @@
+[obj]
 # Blender v2.72 (sub 0) OBJ File: ''
 # www.blender.org
 mtllib 'cube'.mtl
-[obj]
 o Cube1_default
 v -5.000000 0.000001 -5.000000
 v 5.000000 0.000001 -5.000000
